@@ -22,7 +22,7 @@
               countdown = document.getElementById("countdown"),
               content = document.getElementById("content");
 
-          headline.innerText = "🎊Happy New Year 2021!!🎉🎉";
+          headline.innerText = "🎊 Happy New Year !! 🎉🎉";
           countdown.style.display = "none";
           content.style.display = "block";
 
